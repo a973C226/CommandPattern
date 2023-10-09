@@ -1,0 +1,14 @@
+C:\Users\cde12\source\repos\LightSwitch\bin\Debug\net6.0\LightSwitch.exe
+C:\Users\cde12\source\repos\LightSwitch\bin\Debug\net6.0\LightSwitch.deps.json
+C:\Users\cde12\source\repos\LightSwitch\bin\Debug\net6.0\LightSwitch.runtimeconfig.json
+C:\Users\cde12\source\repos\LightSwitch\bin\Debug\net6.0\LightSwitch.dll
+C:\Users\cde12\source\repos\LightSwitch\bin\Debug\net6.0\LightSwitch.pdb
+C:\Users\cde12\source\repos\LightSwitch\obj\Debug\net6.0\LightSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cde12\source\repos\LightSwitch\obj\Debug\net6.0\LightSwitch.AssemblyInfoInputs.cache
+C:\Users\cde12\source\repos\LightSwitch\obj\Debug\net6.0\LightSwitch.AssemblyInfo.cs
+C:\Users\cde12\source\repos\LightSwitch\obj\Debug\net6.0\LightSwitch.csproj.CoreCompileInputs.cache
+C:\Users\cde12\source\repos\LightSwitch\obj\Debug\net6.0\LightSwitch.dll
+C:\Users\cde12\source\repos\LightSwitch\obj\Debug\net6.0\refint\LightSwitch.dll
+C:\Users\cde12\source\repos\LightSwitch\obj\Debug\net6.0\LightSwitch.pdb
+C:\Users\cde12\source\repos\LightSwitch\obj\Debug\net6.0\LightSwitch.genruntimeconfig.cache
+C:\Users\cde12\source\repos\LightSwitch\obj\Debug\net6.0\ref\LightSwitch.dll

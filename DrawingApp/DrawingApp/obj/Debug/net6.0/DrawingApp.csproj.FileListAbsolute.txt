@@ -1,0 +1,14 @@
+C:\Users\cde12\source\repos\DrawingApp\DrawingApp\bin\Debug\net6.0\DrawingApp.exe
+C:\Users\cde12\source\repos\DrawingApp\DrawingApp\bin\Debug\net6.0\DrawingApp.deps.json
+C:\Users\cde12\source\repos\DrawingApp\DrawingApp\bin\Debug\net6.0\DrawingApp.runtimeconfig.json
+C:\Users\cde12\source\repos\DrawingApp\DrawingApp\bin\Debug\net6.0\DrawingApp.dll
+C:\Users\cde12\source\repos\DrawingApp\DrawingApp\bin\Debug\net6.0\DrawingApp.pdb
+C:\Users\cde12\source\repos\DrawingApp\DrawingApp\obj\Debug\net6.0\DrawingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cde12\source\repos\DrawingApp\DrawingApp\obj\Debug\net6.0\DrawingApp.AssemblyInfoInputs.cache
+C:\Users\cde12\source\repos\DrawingApp\DrawingApp\obj\Debug\net6.0\DrawingApp.AssemblyInfo.cs
+C:\Users\cde12\source\repos\DrawingApp\DrawingApp\obj\Debug\net6.0\DrawingApp.csproj.CoreCompileInputs.cache
+C:\Users\cde12\source\repos\DrawingApp\DrawingApp\obj\Debug\net6.0\DrawingApp.dll
+C:\Users\cde12\source\repos\DrawingApp\DrawingApp\obj\Debug\net6.0\refint\DrawingApp.dll
+C:\Users\cde12\source\repos\DrawingApp\DrawingApp\obj\Debug\net6.0\DrawingApp.pdb
+C:\Users\cde12\source\repos\DrawingApp\DrawingApp\obj\Debug\net6.0\DrawingApp.genruntimeconfig.cache
+C:\Users\cde12\source\repos\DrawingApp\DrawingApp\obj\Debug\net6.0\ref\DrawingApp.dll
